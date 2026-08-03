@@ -35,30 +35,27 @@ class ProgrammerPlus1998:
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Open Source Contributions
+
+给这些明星项目提交过 PR（⭐ = 仓库 star）：
+
+| Project | ⭐ | PR | Status |
+|---------|---|----|--------|
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 108k | [#5334 migrate MCP integration to mcp 2.x](https://github.com/browser-use/browser-use/pull/5334) | 🔄 open |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 62k | [#5390 fix(qdrant): https option for self-hosted](https://github.com/mem0ai/mem0/pull/5390) | 🔀 closed |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42k | [#8956 fix: team_id filter for nested team history](https://github.com/agno-agi/agno/pull/8956) | ✅ merged |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42k | [#8726 fix: prevent path traversal in FileSystemKnowledge](https://github.com/agno-agi/agno/pull/8726) | ✅ merged |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 24k | [#3239 expose create_mcp_http_client & factory](https://github.com/modelcontextprotocol/python-sdk/pull/3239) | 🔄 open |
+| [google/adk-python](https://github.com/google/adk-python) | 21k | [#6537 migrate MCP tooling to mcp 2.x](https://github.com/google/adk-python/pull/6537) | 🔄 open |
+| [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) | 3.3k | [#954 use json-repair for LLM output parsing](https://github.com/MemMachine/MemMachine/pull/954) | ✅ merged |
+| [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | 672 | [#183 Global middleware](https://github.com/ThinkInAIXYZ/go-mcp/pull/183) | ✅ merged |
+| [tortoise/aerich](https://github.com/tortoise/aerich) | 1.1k | [#187 inspectdb data types & exception handling](https://github.com/tortoise/aerich/pull/187) | ✅ merged |
 
 <div align="center">
-
-<a href="https://github.com/ProgrammerPlus1998/NacosX">
-  <img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F%20NacosX-Nacos%20%E8%87%AA%E5%8A%A8%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E5%BA%93-1E88E5?style=for-the-badge&logo=python&logoColor=white" alt="NacosX"/>
-</a>
-&nbsp;
-<a href="https://github.com/ProgrammerPlus1998/multi-agent">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20multi--agent-%E5%BC%82%E6%AD%A5%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%90%8E%E7%AB%AF-FF6F00?style=for-the-badge&logo=probot&logoColor=white" alt="multi-agent"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/ProgrammerPlus1998/NacosX?style=social"/>
-  <img src="https://img.shields.io/github/stars/ProgrammerPlus1998/multi-agent?style=social"/>
-</p>
-
+  <img src="https://img.shields.io/badge/Merged%20PRs-7+-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Top%20Repo%20Stars-108k-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Focus-MCP%20%C2%B7%20Agent-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
 </div>
-
-| Project | Description |
-|--------|-------------|
-| 🛰️ **[NacosX](https://github.com/ProgrammerPlus1998/NacosX)** | 装饰器风格的 Nacos 自动服务注册 / 心跳管理 / 优雅下线库，内置重试与自愈 |
-| 🤖 **[multi-agent](https://github.com/ProgrammerPlus1998/multi-agent)** | 异步多智能体后端，可插拔 MCP 工具 & AG-UI 暴露 |
-| 📝 **[Blog](https://ProgrammerPlus1998.github.io)** | 我的技术博客与笔记 |
 
 ---
 
