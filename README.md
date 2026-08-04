@@ -92,7 +92,12 @@ class ProgrammerPlus1998:
 
 <img height="165" src="https://streak-stats.demolab.com/?user=ProgrammerPlus1998&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Activity Graph"/>
+<!-- 贪吃蛇:由 GitHub Actions 定时生成,自动适配明暗主题 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake.svg" width="98%" alt="Snake animation"/>
+</picture>
 
 </div>
 
