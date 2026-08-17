@@ -37,22 +37,30 @@ class ProgrammerPlus1998:
 
 ### 🌟 Open Source Contributions
 
-给这些明星项目提交过 PR（star 数实时更新）：
+给这些明星项目提交过 PR，按仓库 star 数排序（star 数实时更新）：
 
 | Project | Stars | PR | Status |
 |---------|-------|----|--------|
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ![stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat&color=gold) | [#5334 migrate MCP integration to mcp 2.x](https://github.com/browser-use/browser-use/pull/5334) | 🔄 open |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | ![stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat&color=gold) | [#5390 fix(qdrant): https option for self-hosted](https://github.com/mem0ai/mem0/pull/5390) | 🔀 closed |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | ![stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat&color=gold) | [#8020 fix(autogen-ext): migrate MCP integration to mcp 2.x SDK](https://github.com/microsoft/autogen/pull/8020) | 🔄 open |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | ![stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=gold) | [#22557 feat: migrate llama-index-tools-mcp to mcp 2.x](https://github.com/run-llama/llama_index/pull/22557) | ✅ merged |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#8956 fix: team_id filter for nested team history](https://github.com/agno-agi/agno/pull/8956) | ✅ merged |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#8726 fix: prevent path traversal in FileSystemKnowledge](https://github.com/agno-agi/agno/pull/8726) | ✅ merged |
-| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | ![stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat&color=gold) | [#3239 expose create_mcp_http_client & factory](https://github.com/modelcontextprotocol/python-sdk/pull/3239) | 🔄 open |
-| [google/adk-python](https://github.com/google/adk-python) | ![stars](https://img.shields.io/github/stars/google/adk-python?style=flat&color=gold) | [#6537 migrate MCP tooling to mcp 2.x](https://github.com/google/adk-python/pull/6537) | 🔄 open |
-| [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) | ![stars](https://img.shields.io/github/stars/MemMachine/MemMachine?style=flat&color=gold) | [#954 use json-repair for LLM output parsing](https://github.com/MemMachine/MemMachine/pull/954) | ✅ merged |
-| [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | ![stars](https://img.shields.io/github/stars/ThinkInAIXYZ/go-mcp?style=flat&color=gold) | [#183 Global middleware](https://github.com/ThinkInAIXYZ/go-mcp/pull/183) | ✅ merged |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#9253 feat: surface team member activity in AG-UI via ACTIVITY_SNAPSHOT](https://github.com/agno-agi/agno/pull/9253) | 🔄 open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#9269 feat: migrate MCP client and AgentOS server to mcp 2.x](https://github.com/agno-agi/agno/pull/9269) | 🔄 open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#9540 fix: emit reasoning delta & completed events for native model reasoning](https://github.com/agno-agi/agno/pull/9540) | 🔄 open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#9544 feat: move dynamic context (datetime/location) to trailing message](https://github.com/agno-agi/agno/pull/9544) | 🔄 open |
+| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | ![stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat&color=gold) | [#14251 Python: migrate mcp connector to mcp 2.x](https://github.com/microsoft/semantic-kernel/pull/14251) | 🔄 open |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | ![stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat&color=gold) | [#3239 expose create_mcp_http_client & McpHttpClientFactory](https://github.com/modelcontextprotocol/python-sdk/pull/3239) | 🔄 open |
+| [google/adk-python](https://github.com/google/adk-python) | ![stars](https://img.shields.io/github/stars/google/adk-python?style=flat&color=gold) | [#6537 feat: migrate MCP tooling to mcp 2.x](https://github.com/google/adk-python/pull/6537) | 🔄 open |
+| [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) | ![stars](https://img.shields.io/github/stars/MemMachine/MemMachine?style=flat&color=gold) | [#954 feat: use json-repair for LLM output parsing](https://github.com/MemMachine/MemMachine/pull/954) | ✅ merged |
+| [ormar-orm/ormar](https://github.com/ormar-orm/ormar) | ![stars](https://img.shields.io/github/stars/ormar-orm/ormar?style=flat&color=gold) | [#297 add: SmallInteger()](https://github.com/ormar-orm/ormar/pull/297) | ✅ merged |
 | [tortoise/aerich](https://github.com/tortoise/aerich) | ![stars](https://img.shields.io/github/stars/tortoise/aerich?style=flat&color=gold) | [#187 inspectdb data types & exception handling](https://github.com/tortoise/aerich/pull/187) | ✅ merged |
+| [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | ![stars](https://img.shields.io/github/stars/ThinkInAIXYZ/go-mcp?style=flat&color=gold) | [#183 New: Global middleware](https://github.com/ThinkInAIXYZ/go-mcp/pull/183) | ✅ merged |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-7+-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Merged%20PRs-7-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20PRs-9-blue?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Focus-MCP%20%C2%B7%20Agent%20%C2%B7%20Memory-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
 </div>
 
