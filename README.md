@@ -21,7 +21,7 @@
 ```python
 class ProgrammerPlus1998:
     name       = "程序猿过家家"
-    title      = "祖传 AI Agent 架构师掌门人（目前第一代）"  # 祖宗是我，传人也是我
+    title      = "祖传 AI Agent 架构师掌门人（目前第一代）"
     role       = "Backend / AI Agent Engineer"
     focus      = ["Multi-Agent Systems", "MCP Tooling", "LLM Infrastructure"]
     languages  = ["Python", "Go"]
@@ -31,7 +31,6 @@ class ProgrammerPlus1998:
 
 - 🔭 正在折腾 **Multi-Agent 后端架构** 与 **MCP 工具链**
 - 🌱 深入研究 **Agent 编排 / 记忆层 / 服务注册**
-- ✍️ 博客：[ProgrammerPlus1998.github.io](https://ProgrammerPlus1998.github.io)
 - ⚡ 信条：**Code-first, agent-native.**
 
 ---
