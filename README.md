@@ -1,3 +1,6 @@
+<!-- 头部波浪横幅:与底部 footer 首尾呼应 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%E7%A8%8B%E5%BA%8F%E7%8C%BF%E8%BF%87%E5%AE%B6%E5%AE%B6&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=%E7%A5%96%E4%BC%A0%20AI%20Agent%20%E6%9E%B6%E6%9E%84%E5%B8%88%E6%8E%8C%E9%97%A8%E4%BA%BA%EF%BC%88%E7%9B%AE%E5%89%8D%E7%AC%AC%E4%B8%80%E4%BB%A3%EF%BC%89&descAlignY=55&descSize=16" width="100%"/>
+
 <div align="center">
 
 <!-- 动态打字横幅 -->
@@ -80,11 +83,12 @@ class ProgrammerPlus1998:
 
 <div align="center">
 
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<!-- 图标墙:skillicons.dev,明暗主题自适应 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,go,fastapi,docker,git,linux,githubactions&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,go,fastapi,docker,git,linux,githubactions&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,git,linux,githubactions" alt="Tech Stack"/>
+</picture>
 
 **AI / Agent**
 
@@ -93,13 +97,6 @@ class ProgrammerPlus1998:
 ![Multi--Agent](https://img.shields.io/badge/Multi--Agent-FF6F00?style=for-the-badge&logo=probot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Infra & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nacos](https://img.shields.io/badge/Nacos-1E88E5?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 ---
@@ -107,6 +104,13 @@ class ProgrammerPlus1998:
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<!-- 30 天贡献活动曲线:明暗主题自适应 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=tokyo-night&hide_border=true&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=github-light&hide_border=true&area=true"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=github-light&hide_border=true&area=true" alt="Activity Graph"/>
+</picture>
 
 <!-- Streak Stats:明暗主题自适应 -->
 <picture>
@@ -120,6 +124,24 @@ class ProgrammerPlus1998:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake.svg"/>
   <img src="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake.svg" width="98%" alt="Snake animation"/>
+</picture>
+
+<!-- 数据面板:由 lowlighter/metrics Action 每日生成(3D 提交日历 / 语言分布 / 编码习惯) -->
+<img src="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/main/github-metrics.svg" width="98%" alt="Metrics"/>
+
+</div>
+
+---
+
+### 😄 Daily Dose of Humor
+
+<div align="center">
+
+<!-- 每日程序员段子:明暗主题自适应 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=default"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=default" alt="Jokes Card"/>
 </picture>
 
 </div>

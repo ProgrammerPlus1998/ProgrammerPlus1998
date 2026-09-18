@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  # 每天 UTC 05:43 自动重建（避开整点高峰）
+  schedule:
+    - cron: "43 5 * * *"
+  push:
+    branches:
+      - main
+  # 允许手动触发
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics svg
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          # 等距 3D 提交日历
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # 语言分布
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          # 编码时段习惯
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          config_timezone: Asia/Shanghai
