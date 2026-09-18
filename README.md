@@ -44,9 +44,6 @@ class ProgrammerPlus1998:
 <!-- 🤖 此区块由 scripts/update_pr_wall.py + GitHub Actions 自动生成，请勿手改 -->
 <!-- 机制：merged 优先 / 仓库 star 排序 / 上限 20 条 / open 超 180 天无响应自动隐藏 -->
 
-给这些明星项目提交过 PR，merged 优先、按仓库 star 数排序，最多展示 20 条
-（star 数实时更新，PR 列表每周自动刷新，上次更新：2026-09-18）：
-
 | Project | Stars | PR | Status |
 |---------|-------|----|--------|
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | ![stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat&color=gold) | [#22557 feat: migrate llama-index-tools-mcp to mcp 2.x](https://github.com/run-llama/llama_index/pull/22557) | ✅ merged |

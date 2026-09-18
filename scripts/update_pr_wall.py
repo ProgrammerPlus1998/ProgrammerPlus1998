@@ -117,13 +117,9 @@ def build_wall(prs, merged_total, open_total):
   <img src="https://img.shields.io/badge/Focus-MCP%20%C2%B7%20Agent%20%C2%B7%20Memory-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
 </div>"""
 
-    today = now.strftime("%Y-%m-%d")
     return f"""<!-- PR-WALL:START -->
 <!-- 🤖 此区块由 scripts/update_pr_wall.py + GitHub Actions 自动生成，请勿手改 -->
 <!-- 机制：merged 优先 / 仓库 star 排序 / 上限 {MAX_ROWS} 条 / open 超 {STALE_OPEN_DAYS} 天无响应自动隐藏 -->
-
-给这些明星项目提交过 PR，merged 优先、按仓库 star 数排序，最多展示 {MAX_ROWS} 条
-（star 数实时更新，PR 列表每周自动刷新，上次更新：{today}）：
 
 {table}
 
