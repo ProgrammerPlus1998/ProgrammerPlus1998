@@ -133,19 +133,4 @@ class ProgrammerPlus1998:
 
 ---
 
-### 😄 Daily Dose of Humor
-
-<div align="center">
-
-<!-- 每日程序员段子:明暗主题自适应 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=default"/>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=default" alt="Jokes Card"/>
-</picture>
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
