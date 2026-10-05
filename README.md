@@ -65,11 +65,11 @@ class ProgrammerPlus1998:
 | [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#9540 fix: emit reasoning delta and completed events for native model reasoning in agent and team streaming](https://github.com/agno-agi/agno/pull/9540) | 🔄 open |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | ![stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat&color=gold) | [#9253 feat: surface team member activity in AG-UI via ACTIVITY_SNAPSHOT](https://github.com/agno-agi/agno/pull/9253) | 🔄 open |
 | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | ![stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=flat&color=gold) | [#3931 [HTTPXodus] migrate httpx to httpx2 (hard switch; closes #3929)](https://github.com/lm-sys/FastChat/pull/3931) | 🔄 open |
-| [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | ![stars](https://img.shields.io/github/stars/python-telegram-bot/python-telegram-bot?style=flat&color=gold) | [#5351 [HTTPXodus] migrate httpx to httpx2 (hard switch; closes #5258)](https://github.com/python-telegram-bot/python-telegram-bot/pull/5351) | 🔄 open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | ![stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat&color=gold) | [#7677 [HTTPXodus] migrate httpx to httpx2 (hard switch)](https://github.com/chroma-core/chroma/pull/7677) | 🔄 open |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Merged%20PRs-8-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Open%20PRs-25-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20PRs-22-blue?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Focus-MCP%20%C2%B7%20Agent%20%C2%B7%20Memory-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
 </div>
 <!-- PR-WALL:END -->
